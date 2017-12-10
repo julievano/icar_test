@@ -1,4 +1,4 @@
-site_name: ICAR
+site_name: icar_test
 pages:
 - Home: index.md
 - Compiling: compiling.md
@@ -6,4 +6,4 @@ pages:
 - Developing: developing.md
 - Errors: errors.md
 theme: readthedocs
-google_analytics: ['UA-108421993-4', 'icar.readthedocs.org']
+google_analytics: ['UA-108421993-4', 'icar_test.readthedocs.org']
