@@ -3,6 +3,17 @@
 [![Build Status](https://travis-ci.org/NCAR/icar.svg)](https://travis-ci.org/NCAR/icar)
 [![Documentation Status](https://readthedocs.org/projects/icar/badge/)](http://icar.readthedocs.org/en/develop/)
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108421993-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-108421993-4');
+</script>
+
+
 ICAR is a simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses. At this early stage, the model is still undergoing rapid development, and users are encouraged to get updates frequently. 
 
 Documentation is (slowly) being built on [readthedocs](http://icar.readthedocs.org/en/develop/) and doxygen based documentation can be built now by running "make doc", and is available through [github-pages](http://NCAR.github.io/icar). 
